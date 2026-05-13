@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641423282868",
+    "project_id": "sareevastra-3655d",
+    "storage_bucket": "sareevastra-3655d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641423282868:android:f4c5d1b71d230958503de1",
+        "android_client_info": {
+          "package_name": "com.example.sareevastra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQjWSetD6JvOqTINRRTmxS4pCnQY6gNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
